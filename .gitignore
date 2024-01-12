@@ -1,0 +1,11 @@
+# Inside the client folder
+node_modules/
+build/
+.DS_Store
+.env
+
+# Inside the server folder
+node_modules/
+build/
+.DS_Store
+.env
